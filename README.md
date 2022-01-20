@@ -15,7 +15,7 @@
 <p align="justify"> Following the request of the election commission the table summarizes: the voter turnout for each county, it is observed that: Arapahoe County got 24,801 votes which means 6.7%, followed by Jefferson County got 38,855 vote which represents 10.5% and the county with the highest turnout was Denver with 306,055 votes with 82.8%. 
 The share of the votes per candidate were:
 
-![image](https://user-images.githubusercontent.com/95872614/150381779-bbc39aa3-9ea9-40b0-8b0a-b48f148dc8d6.png)
+![image](https://user-images.githubusercontent.com/95872614/150383266-be447598-be88-448c-9b44-e396eba2173b.png)
 
 
 <p align="justify"> Related to the candidates it is observed that Mr. Raymon Anthony Doane got 11,606 votes which represents 3.1%, followed by Mr. Charles Casper Stockham who got 85,213 votes meaning 23.0% and the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  
