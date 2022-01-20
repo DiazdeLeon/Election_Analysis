@@ -30,9 +30,15 @@ The share of the votes per candidate were:
 # 3.	Election Audit Summary
 
 <p align="justify"> This script is so flexible that can be used for any election, for example for State and/or Federal elections. Here is presented two examples for modifying the script.
-<p align="justify"> The first part of the script to change would be the file to analyze. In this part of the code is easily to see the file path to be changed for a new election analysis file. 
+<p align="justify"> - The first part of the script to change would be the file to analyze. In this part of the code is easily to see the file path to be changed for a new election analysis file. 
  
-<p align="justify"> The second part to be change would be the variables related to county, which would be change for State, precinct, or any other variable that the user may request to analyze. The point 1 and 2 would be modify.   
+ ![image](https://user-images.githubusercontent.com/95872614/150382762-b811b349-7bf4-4b2c-8197-b62e40126daa.png)
+
+ 
+<p align="justify"> - The second part to be change would be the variables related to county, which would be change for State, precinct, or any other variable that the user may request to analyze. The point 1 and 2 would be modify.   
+ 
+ ![image](https://user-images.githubusercontent.com/95872614/150382794-975f272d-0382-4746-ba86-4db6296010d2.png)
+
 
 # 4.	Conclusion
 
