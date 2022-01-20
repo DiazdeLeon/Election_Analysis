@@ -8,33 +8,33 @@
 
 # 2.Election Audit Results
 
-The audit showed a total of 369,711 votes, the share of the votes by county were as follows:
+<p align="justify"> The audit showed a total of 369,711 votes, the share of the votes by county were as follows:
 
 ![image](https://user-images.githubusercontent.com/95872614/150381531-49f2289e-4457-435b-99eb-79dda17a8fa1.png)
 
 
-Following the request of the election commission the table summarizes: the voter turnout for each county, it is observed that: Arapahoe County got 24,801 votes which means 6.7%, followed by Jefferson County got 38,855 vote which represents 10.5% and the county with the highest turnout was Denver with 306,055 votes with 82.8%. 
+<p align="justify"> Following the request of the election commission the table summarizes: the voter turnout for each county, it is observed that: Arapahoe County got 24,801 votes which means 6.7%, followed by Jefferson County got 38,855 vote which represents 10.5% and the county with the highest turnout was Denver with 306,055 votes with 82.8%. 
 The share of the votes per candidate were:
 
 ![image](https://user-images.githubusercontent.com/95872614/150381779-bbc39aa3-9ea9-40b0-8b0a-b48f148dc8d6.png)
 
 
-Related to the candidates it is observed that Mr. Raymon Anthony Doane got 11,606 votes which represents 3.1%, followed by Mr. Charles Casper Stockham who got 85,213 votes meaning 23.0% and the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  
+<p align="justify"> Related to the candidates it is observed that Mr. Raymon Anthony Doane got 11,606 votes which represents 3.1%, followed by Mr. Charles Casper Stockham who got 85,213 votes meaning 23.0% and the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  
 
 # 2.2 Summary audit election table results
 
-This table presents the final summary of the audit Colorado election
+<p align="justify"> This table presents the final summary of the audit Colorado election
 
 ![image](https://user-images.githubusercontent.com/95872614/150381852-6924012d-7c31-4f9b-ad68-a555b0fc4a46.png)
 
 # 3.	Election Audit Summary
 
-This script is so flexible that can be used for any election, for example for State and/or Federal elections. Here is presented two examples for modifying the script.
-The first part of the script to change would be the file to analyze. In this part of the code is easily to see the file path to be changed for a new election analysis file. 
+<p align="justify"> This script is so flexible that can be used for any election, for example for State and/or Federal elections. Here is presented two examples for modifying the script.
+<p align="justify"> The first part of the script to change would be the file to analyze. In this part of the code is easily to see the file path to be changed for a new election analysis file. 
  
-The second part to be change would be the variables related to county, which would be change for State, precinct, or any other variable that the user may request to analyze. The point 1 and 2 would be modify.   
+<p align="justify"> The second part to be change would be the variables related to county, which would be change for State, precinct, or any other variable that the user may request to analyze. The point 1 and 2 would be modify.   
 
 # 4.	Conclusion
 
-Python allows to perform analysis in a faster and accurate manner. In this challenge it was possible to retrieve results of the Colorado election by county, it was possible to observed that the county with the highest turnout was Denver with 306,055 votes with 82.8%. Also, the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  Also, Python allows to present summaries of the findings and relevant information for the user. As well as the coding is flexible enough to be utilized in other analyses.   
+<p align="justify"> Python allows to perform analysis in a faster and accurate manner. In this challenge it was possible to retrieve results of the Colorado election by county, it was possible to observed that the county with the highest turnout was Denver with 306,055 votes with 82.8%. Also, the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  Also, Python allows to present summaries of the findings and relevant information for the user. As well as the coding is flexible enough to be utilized in other analyses.   
 
