@@ -20,7 +20,7 @@ The share of the votes per candidate were:
 
 <p align="justify"> Related to the candidates it is observed that Mr. Raymon Anthony Doane got 11,606 votes which represents 3.1%, followed by Mr. Charles Casper Stockham who got 85,213 votes meaning 23.0% and the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  
 
-# 2.2 Summary audit election table results
+# 2.2 Summary Audit Election Table Results
 
 <p align="justify"> This table presents the final summary of the audit Colorado election
 
