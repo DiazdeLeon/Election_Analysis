@@ -1,4 +1,4 @@
-#1.Overview of Colorado Counties Election Audit
+1.Overview of Colorado Counties Election Audit
 
 This analysis has objective to do an election analysis audit from the State of Colorado, specifically from the counties: Jefferson, Denver and Arapahoe. This election had three candidates which were: Mrs: Diana DeGette, Mr. Charles Casper Stockham and Mr. Raymon Anthony Doane. The election commission has requested some additional data to complete the audit:
 
@@ -6,7 +6,7 @@ This analysis has objective to do an election analysis audit from the State of C
 •	The percentage of votes from each county out of the total count
 •	The county with the highest turnout
 
-#2.Election Audit Results
+2.Election Audit Results
 
 The audit showed a total of 369,711 votes, the share of the votes by county were as follows:
 
@@ -16,10 +16,9 @@ The audit showed a total of 369,711 votes, the share of the votes by county were
 Following the request of the election commission the table summarizes: the voter turnout for each county, it is observed that: Arapahoe County got 24,801 votes which means 6.7%, followed by Jefferson County got 38,855 vote which represents 10.5% and the county with the highest turnout was Denver with 306,055 votes with 82.8%. 
 The share of the votes per candidate were:
 
-Candidate name	Turnout	Percentage
-•	Charles Casper Stockham	85,213	23.0%
-•	Diana DeGette	272,892	73.8%
-•	Raymon Anthony Doane	11,606	3.1%
+![image](https://user-images.githubusercontent.com/95872614/150381779-bbc39aa3-9ea9-40b0-8b0a-b48f148dc8d6.png)
+
+
 Related to the candidates it is observed that Mr. Raymon Anthony Doane got 11,606 votes which represents 3.1%, followed by Mr. Charles Casper Stockham who got 85,213 votes meaning 23.0% and the winner of this election was Mrs. Diana DeGette who got 272,892 votes which means 73.8%.  
 2.2 Summary audit election table results
 This table presents the final summary of the audit Colorado election
