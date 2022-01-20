@@ -10,8 +10,7 @@
 
 <p align="justify"> The audit showed a total of 369,711 votes, the share of the votes by county were as follows:
 
-![image](https://user-images.githubusercontent.com/95872614/150382971-af5d85e2-3ffe-4ab4-acb9-c65381238646.png)
-
+![image](https://user-images.githubusercontent.com/95872614/150383136-877449f5-099f-4c1b-943d-b14e1dd28e87.png)
 
 <p align="justify"> Following the request of the election commission the table summarizes: the voter turnout for each county, it is observed that: Arapahoe County got 24,801 votes which means 6.7%, followed by Jefferson County got 38,855 vote which represents 10.5% and the county with the highest turnout was Denver with 306,055 votes with 82.8%. 
 The share of the votes per candidate were:
